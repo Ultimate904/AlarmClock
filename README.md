@@ -1,4 +1,4 @@
-Alarm-Clock
+AlarmClock-iOS
 ===========
 
 AlarmClock-iOS
