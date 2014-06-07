@@ -1,4 +1,5 @@
-Alarm-Clock
+AlarmClock-iOS
 ===========
 
-Alarm Clock
+AlarmClock-iOS
+Internship
